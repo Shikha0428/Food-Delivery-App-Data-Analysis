@@ -10,6 +10,7 @@ This is the real world data analysis project conducted by HiCounselor as a 1 wee
 The real dataset, client requirements, the tools which will be used, everything related to the project had been given in a sandbox link in their website.
 It Contains 2 modules:
 In module 1, we have to do cleaning process which is done in 7 steps: 
+
 Step 1 : Removing unwanted columns. 
 For removing unwanted columns, first we have to load the Zomato dataset.<img width="1042" alt="dataset" src="https://user-images.githubusercontent.com/126523797/230700330-153470c3-e45d-4369-8bd8-19b181a05a31.png">
 
