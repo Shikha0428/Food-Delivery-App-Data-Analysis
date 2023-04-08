@@ -20,7 +20,8 @@ Step 2 : Renaming the columns for easy analysis.
 <img width="1038" alt="rename" src="https://user-images.githubusercontent.com/126523797/230700414-1d6faaf3-000c-4c42-8a92-1ea43af3a3b1.png">
 
 Step 3 : Dealing with Null values in every column. 
-<img width="1121" alt="null" src="https://user-images.githubusercontent.com/126523797/230700482-214d0d04-e46a-4764-8833-d49218a346c1.png">
+<img width="761" alt="null" src="https://user-images.githubusercontent.com/126523797/230700758-93140368-579d-470f-ba37-29c244928cf6.png">
+
 
 Step 4 : Dropping the duplicate values.
 <img width="1035" alt="duplicate" src="https://user-images.githubusercontent.com/126523797/230700527-f3c9e6ee-0130-48ba-a12d-95e40d7865c0.png">
